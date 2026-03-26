@@ -5,6 +5,9 @@ A minimal, production-ready reference implementation for integrating **Fonepay D
 Scan a QR → pay via any Nepali banking app → payment confirmed in real time via WebSocket + polling fallback.
 
 ---
+<img width="456" height="595" alt="image" src="https://github.com/user-attachments/assets/85975896-4280-4f4e-8ace-8f4e620d3036" />
+<img width="1794" height="967" alt="image" src="https://github.com/user-attachments/assets/d591b347-9b13-4d94-8586-c0c7889f0d27" />
+
 
 ## How it works
 
